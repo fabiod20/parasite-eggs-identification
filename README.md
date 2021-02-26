@@ -7,5 +7,5 @@ The contest aims at the detection of parasite eggs in microscopic images. The ta
 The solution shown in the Notebook, implemented by means of *PyTorch*, is made up of tree main stages:
 - **Data understanding**: extract some useful information from the training images.
 - **Data preparation**: prepare data for the next stage.
-- **Modeling**: deep learning approaches were used to face the problem, such as *Convolutional Neural Network* (CNN).
+- **Modeling**: deep learning approaches were used to face the problem, in particular *Convolutional Neural Network* (CNN).
 - **Evaluation**: evaluating models' performance.
