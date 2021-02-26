@@ -4,8 +4,8 @@ You can find more about the competition [here](https://www.kaggle.com/c/unina-da
 
 The contest aims at the detection of parasite eggs in microscopic images. The task is to determine whether a parasite egg appears or not in a given image.
 
-The solution shown in the Notebook, implemented by means of *PyTorch*, is made up of tree main stages:
+The solution shown in the Notebook, implemented by means of *PyTorch*, is made up of different stages:
 - **Data understanding**: extract some useful information from the training images.
 - **Data preparation**: prepare data for the next stage.
 - **Modeling**: deep learning approaches were used to face the problem, in particular *Convolutional Neural Network* (CNN).
-- **Evaluation**: evaluating models' performance.
+- **Evaluation**: evaluating model's performance.
